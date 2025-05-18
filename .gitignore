@@ -1,0 +1,10 @@
+#Build
+build
+CMakeUserPresets.json
+
+#Vscode
+.vscode
+
+#Executables
+r-type_server*
+r-type_client*
